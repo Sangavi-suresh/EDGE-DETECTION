@@ -79,12 +79,21 @@ cv2.destroyAllWindows()
 ![image](https://github.com/Sangavi-suresh/EDGE-DETECTION/assets/118541861/ade4054d-b23b-48c4-b89b-7bfcc4a6523a)
 
 
+![image](https://github.com/Sangavi-suresh/EDGE-DETECTION/assets/118541861/df347bc7-1cb5-4892-8f52-2022dcb98f14)
+
+
+![image](https://github.com/Sangavi-suresh/EDGE-DETECTION/assets/118541861/d2cd65de-eba9-440a-a90c-02e7b96b2886)
+
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
+
+
+![image](https://github.com/Sangavi-suresh/EDGE-DETECTION/assets/118541861/b104ac31-16a7-4d1a-afc3-2466c3ad36a5)
 
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+
+
+![image](https://github.com/Sangavi-suresh/EDGE-DETECTION/assets/118541861/8971f793-c328-49ff-ba16-bc830d6c4283)
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
